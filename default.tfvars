@@ -1,0 +1,7 @@
+region        = "us-west-2"
+ami_id        = "ami-05134c8ef96964280"
+instance_type = "t2.micro"
+key_name      = "uswest2key"
+ssh_user      = "ubuntu"
+instance_name = "my-ec2-instance"
+allowed_cidr  = "0.0.0.0/0"
